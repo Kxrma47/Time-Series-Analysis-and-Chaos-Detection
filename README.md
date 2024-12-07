@@ -27,11 +27,8 @@ This task estimates the **Largest Lyapunov Exponent (LLE)** for the Lorenz syste
 - **Lorenz System LLE**: 0.02321
 - **Logistic Map LLE**: 0.69288
 
-### 🔹 Lorenz System Plot
-![Lorenz Plot](image.png)
 
-### 🔹 Logistic Map Plot
-![Logistic Map Plot](image.png)
+![image](https://github.com/user-attachments/assets/6a41e753-532f-4323-a653-f1d98ab05d32)
 
 ---
 
@@ -50,7 +47,8 @@ This task calculates the **entropy-complexity pairs** for various time series, i
 7. **Regular Time Series**
 
 ### 🔹 Entropy-Complexity Plane Plot
-![Entropy Complexity Plot](image.png)
+
+![image](https://github.com/user-attachments/assets/4a2e2a08-0a07-408a-b59f-8b118aff3872)
 
 ### Key Results
 
@@ -68,7 +66,8 @@ This task calculates the **entropy-complexity pairs** for various time series, i
 This task applies **K-Means** and **Agglomerative Clustering** to predict chaotic time series and uses a **healing algorithm** to correct outliers.
 
 ### 🔹 Results Plot
-![Predictive Clustering Plot](image.png)
+
+![image](https://github.com/user-attachments/assets/d1b11f21-fcd9-4652-a411-d37db1d51744)
 
 ### Key Metrics
 
@@ -86,12 +85,14 @@ This task involves:
 
 1. **Fourier Analysis** to denoise a signal.
 2. **ARIMA** model for time series forecasting.
+![image](https://github.com/user-attachments/assets/591b20ad-f56e-43e3-a3a4-fc6e6f1dd0a7)
+![image](https://github.com/user-attachments/assets/de737f03-8fc1-4278-a8ab-c19b191b2bea)
+![image](https://github.com/user-attachments/assets/ddac804c-795b-4529-b82b-fd07cee5ff08)
+![image](https://github.com/user-attachments/assets/a60ffe95-3416-40fd-94f4-07216a94ec8d)
+![image](https://github.com/user-attachments/assets/cf3ea435-ec05-4974-9bc1-abfccb9d9c1d)
 
-### 🔹 Fourier Filtering Plot
-![Fourier Filtering Plot](image.png)
 
-### 🔹 ARIMA Forecast Plot
-![ARIMA Forecast Plot](image.png)
+
 
 ### ARIMA Model Summary
 
